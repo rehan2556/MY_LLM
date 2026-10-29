@@ -1,0 +1,1615 @@
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+Q: hi
+A: hello! how can i help?
+Q: what is your name
+A: i am a tiny language model
+Q: what is 2+2
+A: 4
+Q: bye
+A: goodbye!
+
+Q: hi
+A: hello! how can i help?
+Q: can u calculate something
+A: what is 2+2
+<|assistant|>
+4
+Q: nice
+A: goodbye!
+Q: nice
+A: goodbye!
+Q: thank you
+A: hello! how can i help?
+Q: nice
+A: goodbye!
